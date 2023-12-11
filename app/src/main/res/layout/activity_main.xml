@@ -6,8 +6,7 @@
     <LinearLayout
         android:id="@+id/LayoutTop"
         android:layout_width="match_parent"
-        android:layout_height="74dp"
-        android:orientation="horizontal">
+        android:layout_height="match_parent">
 
         <Button
             android:id="@+id/ButtonEasy"
@@ -16,6 +15,7 @@
             android:layout_marginLeft="20dp"
             android:backgroundTint="@color/button_background_color"
             android:text="@string/button1" />
+
         <Button
             android:id="@+id/ButtonMed"
             android:layout_width="wrap_content"
@@ -23,6 +23,7 @@
             android:layout_marginStart="50dp"
             android:backgroundTint="@color/button_background_color"
             android:text="@string/button2" />
+
         <Button
             android:id="@+id/ButtonHard"
             android:layout_width="wrap_content"
@@ -30,6 +31,15 @@
             android:layout_marginStart="50dp"
             android:backgroundTint="@color/button_background_color"
             android:text="@string/button3" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="100dp"
+            android:layout_height="29dp"
+            android:layout_marginStart="-235dp"
+            android:layout_marginTop="50dp"
+            android:textAlignment="center" />
+
     </LinearLayout>
 
     <LinearLayout
@@ -413,7 +423,7 @@
             android:textSize="50px" />
 
         <Button
-            android:id="@+id/buttonhard6"
+            android:id="@+id/buttonHard6"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginTop="100dp"
@@ -459,7 +469,7 @@
             android:textSize="50px" />
 
         <Button
-            android:id="@+id/buttonhard11"
+            android:id="@+id/buttonHard11"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginTop="200dp"
@@ -495,7 +505,7 @@
             android:backgroundTint="@color/hard_button_background_color"
             android:textSize="50px" />
         <Button
-            android:id="@+id/buttonhard15"
+            android:id="@+id/buttonHard15"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginTop="300dp"
@@ -531,7 +541,7 @@
             android:backgroundTint="@color/hard_button_background_color"
             android:textSize="50px" />
         <Button
-            android:id="@+id/buttonhard19"
+            android:id="@+id/buttonHard19"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginTop="300dp"
@@ -567,7 +577,7 @@
             android:backgroundTint="@color/hard_button_background_color"
             android:textSize="50px" />
         <Button
-            android:id="@+id/buttonhard23"
+            android:id="@+id/buttonHard23"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginTop="400dp"
@@ -612,7 +622,7 @@
             android:backgroundTint="@color/hard_button_background_color"
             android:textSize="50px" />
         <Button
-            android:id="@+id/buttonhard28"
+            android:id="@+id/buttonHard28"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginTop="500dp"
