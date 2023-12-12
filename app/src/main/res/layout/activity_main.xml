@@ -34,9 +34,9 @@
 
         <TextView
             android:id="@+id/textView1"
-            android:layout_width="100dp"
+            android:layout_width="200dp"
             android:layout_height="29dp"
-            android:layout_marginStart="-235dp"
+            android:layout_marginStart="-290dp"
             android:layout_marginTop="50dp"
             android:textAlignment="center" />
 
@@ -177,7 +177,7 @@
             android:layout_marginStart="17dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/buttonMed1"
@@ -187,7 +187,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed2"
             android:layout_width="90dp"
@@ -196,7 +196,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed3"
             android:layout_width="90dp"
@@ -205,7 +205,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/buttonMed4"
@@ -215,7 +215,7 @@
             android:layout_marginStart="-370dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/buttonMed5"
@@ -225,7 +225,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed6"
             android:layout_width="90dp"
@@ -234,7 +234,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed7"
             android:layout_width="90dp"
@@ -243,7 +243,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed8"
             android:layout_width="90dp"
@@ -252,7 +252,7 @@
             android:layout_marginStart="-375dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/buttonMed9"
@@ -262,7 +262,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed10"
             android:layout_width="90dp"
@@ -271,7 +271,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed11"
             android:layout_width="90dp"
@@ -280,7 +280,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed12"
             android:layout_width="90dp"
@@ -289,7 +289,7 @@
             android:layout_marginStart="-375dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/buttonMed13"
@@ -299,7 +299,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed14"
             android:layout_width="90dp"
@@ -308,7 +308,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed15"
             android:layout_width="90dp"
@@ -317,7 +317,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed16"
             android:layout_width="90dp"
@@ -326,7 +326,7 @@
             android:layout_marginStart="-375dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/buttonMed17"
@@ -336,7 +336,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed18"
             android:layout_width="90dp"
@@ -345,7 +345,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
         <Button
             android:id="@+id/buttonMed19"
             android:layout_width="90dp"
@@ -354,7 +354,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/med_button_background_color"
-            android:textSize="48sp" />
+            android:textSize="24sp" />
 
 
     </LinearLayout>
@@ -374,7 +374,7 @@
             android:layout_marginStart="17dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
 
         <Button
             android:id="@+id/buttonHard1"
@@ -384,7 +384,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard2"
             android:layout_width="70dp"
@@ -393,7 +393,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard3"
             android:layout_width="70dp"
@@ -402,7 +402,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard4"
             android:layout_width="70dp"
@@ -411,7 +411,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard5"
             android:layout_width="70dp"
@@ -420,7 +420,7 @@
             android:layout_marginStart="-370dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
 
         <Button
             android:id="@+id/buttonHard6"
@@ -430,7 +430,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard7"
             android:layout_width="70dp"
@@ -439,7 +439,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard8"
             android:layout_width="70dp"
@@ -448,7 +448,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard9"
             android:layout_width="70dp"
@@ -457,7 +457,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard10"
             android:layout_width="70dp"
@@ -466,7 +466,7 @@
             android:layout_marginStart="-370dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
 
         <Button
             android:id="@+id/buttonHard11"
@@ -476,7 +476,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard12"
             android:layout_width="70dp"
@@ -485,7 +485,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard13"
             android:layout_width="70dp"
@@ -494,7 +494,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard14"
             android:layout_width="70dp"
@@ -503,7 +503,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard15"
             android:layout_width="70dp"
@@ -512,7 +512,7 @@
             android:layout_marginStart="-370dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard16"
             android:layout_width="70dp"
@@ -521,7 +521,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard17"
             android:layout_width="70dp"
@@ -530,7 +530,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard18"
             android:layout_width="70dp"
@@ -539,7 +539,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard19"
             android:layout_width="70dp"
@@ -548,7 +548,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard20"
             android:layout_width="70dp"
@@ -557,7 +557,7 @@
             android:layout_marginStart="-370dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard21"
             android:layout_width="70dp"
@@ -566,7 +566,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard22"
             android:layout_width="70dp"
@@ -575,7 +575,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard23"
             android:layout_width="70dp"
@@ -584,7 +584,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard24"
             android:layout_width="70dp"
@@ -593,7 +593,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard25"
             android:layout_width="70dp"
@@ -602,7 +602,7 @@
             android:layout_marginStart="-370dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard26"
             android:layout_width="70dp"
@@ -611,7 +611,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard27"
             android:layout_width="70dp"
@@ -620,7 +620,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard28"
             android:layout_width="70dp"
@@ -629,7 +629,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
         <Button
             android:id="@+id/buttonHard29"
             android:layout_width="70dp"
@@ -638,7 +638,7 @@
             android:layout_marginStart="5dp"
             android:fontFamily="sans-serif-black"
             android:backgroundTint="@color/hard_button_background_color"
-            android:textSize="50px" />
+            android:textSize="14sp" />
 
     </LinearLayout>
 
